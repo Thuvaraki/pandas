@@ -1,5 +1,4 @@
-,temperature,windspeed,event
-day,,,
+day,temperature,windspeed,event
 01/01/2017,32,6,Rain
 04/01/2017,,9,Sunny
 05/01/2017,28,9,Snow
